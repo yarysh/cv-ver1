@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /resume
+Host: yarysh.pro
+Sitemap: http://yarysh.pro/sitemap.xml
